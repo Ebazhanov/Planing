@@ -1,9 +1,9 @@
-Project
--------
+Course from b9lab
+-----------------
 [https://academy.b9lab.com/](https://academy.b9lab.com/)
 
 
-Progress
+Progress:
 --------
 - [Splitter](https://github.com/Ebazhanov/smart-contract-splitter-b9lab)
 - [Remittance](https://github.com/Ebazhanov/smart-contract-remittance-b9lab)
