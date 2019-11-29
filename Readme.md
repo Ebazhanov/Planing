@@ -3,6 +3,7 @@ Main goals for 2019:
 | *Name of the goal*                            | *Terms until:*          |
 | ----------------------------------------------| ----------------------- |
 | Graduate [B9labs Ethereum developers](https://academy.b9lab.com/courses/course-v1:B9lab+BLOCKSTARS-ETH-1+2019-03/info) course  | by June 21  |
+| German language   | [A1 level](https://monosnap.com/file/mJiDq0H7zfnqn7tHUZtTX6WntzAK5j)  |
 | Berlin [meetups](https://www.meetup.com/cities/de/berlin/) - JS       | all related     |
 
 Track results here:
