@@ -6,5 +6,4 @@ Published website by using this host:
  - [ ] [https://www.freenom.com/](https://www.freenom.com/)
  
 ### Some examples
-- [https://bazh.netlify.com/](https://bazh.netlify.com/)
 - [https://ebazhanov.netlify.com/](https://ebazhanov.netlify.com/)
